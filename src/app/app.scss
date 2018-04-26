@@ -14,3 +14,14 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+.container {
+    padding: 0vh;
+    margin: 0 auto;
+    max-width: 1280px;
+  }
+  .toolbar-background {
+    background-color: #3E9186;
+  }
+  .metalero{
+    color: ghostwhite;
+  }
